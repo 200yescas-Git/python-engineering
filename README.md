@@ -3,6 +3,6 @@
 </p>
 
 <h1 align="center">PYTHON</h1>
-<p align="center">MySQL | PostgreSQL | Oracle Database | Microsoft SQL Server | MariaDB | MongoDB | SQLite | PL/SQL</p>
+<p align="center">Automation | APIs | Database | Networking | Cybersecurity | DevOps</p>
 
 ### Professional Technical Portfolio | Long-Term Engineering Repository
