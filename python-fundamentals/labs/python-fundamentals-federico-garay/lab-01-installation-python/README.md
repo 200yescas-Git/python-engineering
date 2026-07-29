@@ -15,4 +15,18 @@ Realizar la instalación del lenguaje de alto nivel python para llevar acabo la 
 | Storage | 500 MB of available disk space | 1 GB or more |
 | Display | 1024 × 768 resolution | Full HD (1920 × 1080) |
 
+### Software Requirements
+
+- Terminal (Linux/macOS)
+- PowerShell or Command Prompt (Windows)
+- Internet connection (recommended)
+- Administrator or sudo privileges
+- Text editor or IDE (optional)
+
+Recommended editors:
+
+- Visual Studio Code
+- PyCharm Community Edition
+- Vim
+- Nano
 
