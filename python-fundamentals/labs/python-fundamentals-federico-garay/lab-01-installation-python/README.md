@@ -216,4 +216,5 @@ python-fundamentals/assets/python-fundamentals-federico-garay/lab-01-installatio
 
 La instalación de Python en Windows 10 se realizó correctamente utilizando el instalador oficial. Se verificó el funcionamiento de Python y `pip`, dejando el entorno listo para desarrollar aplicaciones, automatizar tareas y continuar con el aprendizaje del lenguaje.
 
-
+>[!NOTE]
+>Este laboratorio esta planeado con un gran alcance para todas las actividades que se llevaran acabo dentro del repositorio **python-engineering** y futuros proyectos para el desarrollo de código. 
