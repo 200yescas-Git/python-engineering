@@ -36,4 +36,17 @@ Recommended editors:
 
 ## Official Download Sources
 
+- Python:
+
+```tex
+https://www.python.org/downloads/
+```
+
+- PyCharm:
+
+```tex
+https://www.jetbrains.com/es-es/pycharm/
+```
+
+---
 
