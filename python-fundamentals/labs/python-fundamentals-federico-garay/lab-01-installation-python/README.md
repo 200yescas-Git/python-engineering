@@ -192,7 +192,12 @@ pip --version
 
 ---
 
+## Evidence 
 
+Los screenshots del procedimiento pueden encontrarse en la siguiente carpeta:
+
+```tex
+```
 
 
 
