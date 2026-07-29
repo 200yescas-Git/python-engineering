@@ -50,3 +50,6 @@ https://www.jetbrains.com/es-es/pycharm/
 
 ---
 
+## Installation Python - PyCharm
+
+### 
