@@ -63,6 +63,13 @@ https://www.jetbrains.com/es-es/pycharm/
 
 ### Pycharm
 
+- Descargar PyCharm en su página oficial
+- Dar clic en descargar seleccionado el archivo ejecutable ( executed )
+- Iniciar asistente de instalación
+- Aceptar términos de instalación para empezar el proceso
+- Seleccionar una ruta para su instalación
+- Agregar opciones como la extensión de archivos python y editores de texto
+- Iniciar el proceso para finalizar y empezar a programar código
 
 
 
