@@ -4,6 +4,8 @@
 
 Realizar la instalación del lenguaje de alto nivel python para llevar acabo la habilidad de desarrollar nuestro código en diferentes proyectos del desarrollo de software. Además de su instalación solamente se llevará acabo una vez, por lo que para futuras certificaciones o cursos ya tengamos nuestro entorno de laboratorio en status activo y continuo desarrollo.
 
+---
+
 ## System Requirements
 
 ### Hardware Requirements
@@ -29,4 +31,7 @@ Recommended editors:
 - PyCharm Community Edition
 - Vim
 - Nano
+
+---
+
 
