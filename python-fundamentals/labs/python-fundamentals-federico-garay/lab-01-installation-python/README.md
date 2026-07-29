@@ -52,4 +52,17 @@ https://www.jetbrains.com/es-es/pycharm/
 
 ## Installation Python - PyCharm
 
-### 
+### Python
+
+- Descargar Python en su página oficial
+- Seleccionar la sección Downloads para revisar los paquetes de instalación
+- Seleccionar el paquete base al sistema operativo
+- Ejecutar el asistente de instalación
+- Seleccionar Installation Now
+- Cerrar la ventana una vez finalizada la instalación
+
+### Pycharm
+
+
+
+
