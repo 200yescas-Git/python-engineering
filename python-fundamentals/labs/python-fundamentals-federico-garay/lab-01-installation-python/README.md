@@ -197,7 +197,23 @@ pip --version
 Los screenshots del procedimiento pueden encontrarse en la siguiente carpeta:
 
 ```tex
+python-fundamentals/assets/python-fundamentals-federico-garay/lab-01-installation-python
 ```
 
+---
+
+## Lab Status
+
+- **Status:** Completed
+- **Result:** Successful
+- **Operating System:** Windows 10
+- **Python Version:** Python 3.13.x
+- **Installation Method:** Official Installer (.exe)
+- **Verification:** Passed
+- **Last Updated:** July 2026
+
+## Conclusion
+
+La instalación de Python en Windows 10 se realizó correctamente utilizando el instalador oficial. Se verificó el funcionamiento de Python y `pip`, dejando el entorno listo para desarrollar aplicaciones, automatizar tareas y continuar con el aprendizaje del lenguaje.
 
 
